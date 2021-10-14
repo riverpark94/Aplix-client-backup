@@ -1,0 +1,51 @@
+.about-wrap {
+  width: 100%;
+  text-align: center;
+}
+
+.about-wrap > ul li {
+  margin-top: -35px;
+  height: 70vh;
+  line-height: 70vh;
+  font-size: 3vw;
+  font-family: "Bebas Neue", cursive;
+  color: white;
+}
+
+.about-wrap > ul li h3 strong {
+  font-size: 6vw;
+  font-style: italic;
+  color: black;
+}
+
+.section1 {
+  background: radial-gradient(
+    ellipse farthest-corner at center bottom,
+    #ea6b6b,
+    #881717
+  );
+}
+
+.section2 {
+  background: radial-gradient(
+    ellipse farthest-corner at center bottom,
+    #1350a1,
+    #4581f1
+  );
+}
+
+.section3 {
+  background: radial-gradient(
+    ellipse farthest-corner at center bottom,
+    #95f3aa,
+    #167c0c
+  );
+}
+
+.section4 {
+  background: radial-gradient(
+    ellipse farthest-corner at center bottom,
+    #c758ab,
+    #3d0436
+  );
+}
